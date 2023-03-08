@@ -1,0 +1,96 @@
+Protel Design System Design Rule Check
+PCB File : E:\Altium Designes\LoRa_Test_Board_V1\PCB1.PcbDoc
+Date     : 7.03.2023
+Time     : 23:25:51
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Pad U?-JP6_2(98.25mm,91.5mm) on Multi-Layer And Track (98.25mm,91.44mm)(106.06mm,91.44mm) on Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad U?-JP6_2(98.25mm,91.5mm) on Multi-Layer And Track (98.25mm,91.44mm)(106.06mm,91.44mm) on Bottom Layer Location : [X = 98.595mm][Y = 91.44mm]
+Rule Violations :1
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U?-8(117.822mm,73.01mm) on Top Layer And Pad U?-1(117.822mm,87.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U?-JP6_2(98.25mm,91.5mm) on Multi-Layer And Pad U?-1(117.822mm,87.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U?-8(117.822mm,73.01mm) on Top Layer And Pad U?-10(132.622mm,75.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 3_3V Between Pad U?-JP6_4(98.25mm,86.42mm) on Multi-Layer And Pad U?-13(132.622mm,81.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net DIO0 Between Pad U?-JP7_8(83.01mm,83.88mm) on Multi-Layer And Pad U?-14(132.622mm,83.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net MISO Between Pad U?-JP6_10(98.25mm,71.18mm) on Multi-Layer And Pad U?-2(117.822mm,85.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net MOSI Between Pad U?-JP6_11(98.25mm,68.64mm) on Multi-Layer And Pad U?-3(117.822mm,83.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SCK Between Pad U?-JP6_9(98.25mm,73.72mm) on Multi-Layer And Pad U?-4(117.822mm,81.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net SS Between Pad U?-JP6_12(98.25mm,66.1mm) on Multi-Layer And Pad U?-5(117.822mm,79.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net RST Between Pad U?-JP7_1(83.01mm,66.1mm) on Multi-Layer And Pad U?-6(117.822mm,77.01mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Track (106.06mm,91.44mm)(110.5mm,87mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (110.5mm,87mm)(117.75mm,87mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (113.75mm,87mm)(113.75mm,90mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (113.75mm,90mm)(114.75mm,91mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (114.75mm,91mm)(119mm,91mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (115.25mm,69.5mm)(115.25mm,72mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (115.25mm,69.5mm)(116mm,68.75mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (115.25mm,72mm)(116.25mm,73mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (116.25mm,73mm)(117.75mm,73mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (116mm,68.75mm)(135.25mm,68.75mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (119mm,91mm)(135mm,91mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (132.5mm,75mm)(135mm,75mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (135.25mm,68.75mm)(136.25mm,69.75mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (135mm,75mm)(136.25mm,76.25mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (135mm,91mm)(136.25mm,89.75mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (136.25mm,69.75mm)(136.25mm,76.25mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (136.25mm,76.25mm)(136.25mm,89.75mm) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (98.25mm,91.44mm)(106.06mm,91.44mm) on Bottom Layer Dead Copper - Net Not Assigned.
+Rule Violations :28
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+   Violation between Width Constraint: Track (106.06mm,91.44mm)(110.5mm,87mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (110.5mm,87mm)(117.75mm,87mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (113.75mm,87mm)(113.75mm,90mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (113.75mm,90mm)(114.75mm,91mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (114.75mm,91mm)(119mm,91mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (115.25mm,69.5mm)(115.25mm,72mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (115.25mm,69.5mm)(116mm,68.75mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (115.25mm,72mm)(116.25mm,73mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (116.25mm,73mm)(117.75mm,73mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (116mm,68.75mm)(135.25mm,68.75mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (119mm,91mm)(135mm,91mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (132.5mm,75mm)(135mm,75mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135.25mm,68.75mm)(136.25mm,69.75mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135mm,75mm)(136.25mm,76.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (135mm,91mm)(136.25mm,89.75mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (136.25mm,69.75mm)(136.25mm,76.25mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (136.25mm,76.25mm)(136.25mm,89.75mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (98.25mm,91.44mm)(106.06mm,91.44mm) on Bottom Layer Actual Width = 0.5mm, Target Width = 0.254mm
+Rule Violations :18
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 48
+Waived Violations : 0
+Time Elapsed        : 00:00:01

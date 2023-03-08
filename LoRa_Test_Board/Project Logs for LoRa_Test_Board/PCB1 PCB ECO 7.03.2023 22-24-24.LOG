@@ -1,0 +1,46 @@
+Added Component: Designator=U?(MODULE_ARDUINO_PRO_MINI)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Pro%20Mini/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Pro Mini"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Pro%20Mini/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(XCVR_RFM95W-868S2)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RFM95W-868S2/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RFM95W-868S2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non Standard RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RFM95W-868S2/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RFM95W-868S2/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3_3V Pin=U?-13
+Added Pin To Net: NetName=3_3V Pin=U?-JP1_4
+Added Net: Name=3_3V
+Added Pin To Net: NetName=DIO0 Pin=U?-14
+Added Pin To Net: NetName=DIO0 Pin=U?-JP7_8
+Added Net: Name=DIO0
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-JP1_5
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=U?-2
+Added Pin To Net: NetName=MISO Pin=U?-JP6_10
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U?-3
+Added Pin To Net: NetName=MOSI Pin=U?-JP6_11
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RST Pin=U?-6
+Added Pin To Net: NetName=RST Pin=U?-JP7_1
+Added Net: Name=RST
+Added Pin To Net: NetName=SCK Pin=U?-4
+Added Pin To Net: NetName=SCK Pin=U?-JP6_9
+Added Net: Name=SCK
+Added Pin To Net: NetName=SS Pin=U?-5
+Added Pin To Net: NetName=SS Pin=U?-JP6_12
+Added Net: Name=SS
+Added Class: Name=LoRa_Test_Board_Sheet
