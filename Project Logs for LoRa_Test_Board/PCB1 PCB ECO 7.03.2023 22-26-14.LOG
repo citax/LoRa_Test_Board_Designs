@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U?-JP1_6
+Added Pin To Net: NetName=GND Pin=U?-JP6_2
+Added Member To Class: ClassName=LoRa_Test_Board_Sheet Member=Component U? ARDUINO_PRO_MINI

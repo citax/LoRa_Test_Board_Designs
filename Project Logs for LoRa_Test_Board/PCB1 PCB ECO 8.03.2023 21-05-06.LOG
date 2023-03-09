@@ -1,0 +1,26 @@
+Added Component: Designator=J?(61300511121)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/61300511121/Wurth+Elektronik/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61300511121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/61300511121/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/61300511121/Wurth+Elektronik/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GPIO Pin=J?-5
+Added Pin To Net: NetName=GPIO Pin=U1-JP7_8
+Added Net: Name=GPIO
+Added Pin To Net: NetName=RX Pin=J?-3
+Added Pin To Net: NetName=RX Pin=U1-JP7_12
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=J?-4
+Added Pin To Net: NetName=TX Pin=U1-JP7_11
+Added Net: Name=TX
+Added Pin To Net: NetName=VCC Pin=J?-1
+Added Pin To Net: NetName=VCC Pin=U1-JP1_4
+Added Pin To Net: NetName=VCC Pin=U1-JP6_4
+Added Pin To Net: NetName=VCC Pin=U2-13
+Added Net: Name=VCC
+Added Member To Class: ClassName=LoRa_Test_Board_Sheet Member=Component J? 61300511121

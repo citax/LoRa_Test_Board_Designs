@@ -1,0 +1,3 @@
+Added Component: Designator=M?(ARDUINO-PRO-MINI#APC)
+Added Member To Class: ClassName=LoRa_Test_Board_Sheet Member=Component J1 61300511121
+Added Member To Class: ClassName=LoRa_Test_Board_Sheet Member=Component M? Arduino Pro Mini with angle programming connector    More details available here: https://www.arduino.cc/en/Main/ArduinoBoardProMini

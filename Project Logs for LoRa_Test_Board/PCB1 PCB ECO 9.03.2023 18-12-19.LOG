@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DIO0 Pin=U1-JP7_6
+Added Pin To Net: NetName=DIO0 Pin=U1-JP6_5
